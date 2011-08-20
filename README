@@ -1,0 +1,9 @@
+C# Monkey's Audio SDK Wrapper
+
+Monkey's Audio - http://www.monkeysaudio.com
+
+This API wraps existing SDK API and all documentation can be found
+inside of the Monkey's Audio SDK. Originally written for SDK version
+3.99, 02/08/2004.
+
+Licensed under the MIT license.
